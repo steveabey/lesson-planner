@@ -1,0 +1,297 @@
+{
+ "id": "life-vs-tech",
+ "title": "Life vs Tech: The Balance Quest",
+ "subject": "PSHE / Computing",
+ "objective": "I can explain how using technology can be a distraction from other things, in both a positive and negative way.",
+ "cover": "slides/01.webp",
+ "decks": {
+  "life": {
+   "name": "Life",
+   "cards": [
+    {
+     "t": "Eating a snack",
+     "e": "🍎"
+    },
+    {
+     "t": "Walking to school",
+     "e": "🚶"
+    },
+    {
+     "t": "Playing a sport",
+     "e": "⚽"
+    },
+    {
+     "t": "Doing your homework",
+     "e": "📚"
+    },
+    {
+     "t": "Going to sleep",
+     "e": "😴"
+    },
+    {
+     "t": "Eating a large meal",
+     "e": "🍽️"
+    },
+    {
+     "t": "Doing chores",
+     "e": "🧹"
+    },
+    {
+     "t": "Having a bath/shower",
+     "e": "🛁"
+    },
+    {
+     "t": "Spending time with my friends",
+     "e": "🧑‍🤝‍🧑"
+    },
+    {
+     "t": "Relaxing or calming down",
+     "e": "🧘"
+    }
+   ]
+  },
+  "tech": {
+   "name": "Tech",
+   "cards": [
+    {
+     "t": "Streaming music",
+     "e": "🎧"
+    },
+    {
+     "t": "Watching a film",
+     "e": "🎬"
+    },
+    {
+     "t": "Playing a video game",
+     "e": "🎮"
+    },
+    {
+     "t": "Using an app on a phone",
+     "e": "📱"
+    },
+    {
+     "t": "Taking a selfie",
+     "e": "🤳"
+    },
+    {
+     "t": "Messaging a friend",
+     "e": "💬"
+    },
+    {
+     "t": "Looking at a website",
+     "e": "🌐"
+    },
+    {
+     "t": "Using a VR headset",
+     "e": "🥽"
+    },
+    {
+     "t": "Livestreaming",
+     "e": "📡"
+    },
+    {
+     "t": "Editing a video",
+     "e": "🎞️"
+    }
+   ]
+  }
+ },
+ "slides": [
+  {
+   "id": "s1",
+   "type": "title",
+   "title": "The Balance Quest",
+   "sub": "I can explain how using technology can be a distraction from other things, in both a positive and negative way.",
+   "src": "slides/01.webp"
+  },
+  {
+   "id": "s2",
+   "type": "respond",
+   "title": "What do you use technology for that needs you to really concentrate?",
+   "hint": "e.g. Playing a game needs me to focus on what is happening in the game."
+  },
+  {
+   "id": "s3",
+   "type": "respond",
+   "title": "Why do you need to pay attention to it? Can you do anything else at the same time?",
+   "hint": "Does it matter if you can’t?"
+  },
+  {
+   "id": "i02",
+   "type": "image",
+   "title": "Technology is like water for a growing plant",
+   "src": "slides/02.webp"
+  },
+  {
+   "id": "s4",
+   "type": "poll",
+   "title": "Do you ever lose track of time when you are using technology?",
+   "options": [
+    "Never",
+    "Sometimes",
+    "Often",
+    "Nearly always"
+   ],
+   "hint": "Talk with your partner: why do you think this happens?"
+  },
+  {
+   "id": "i03",
+   "type": "image",
+   "title": "Why is it so hard to stop?",
+   "src": "slides/03.webp"
+  },
+  {
+   "id": "s14",
+   "type": "poll",
+   "title": "Which “sticky” trick catches you out the most?",
+   "options": [
+    "▶️ Autoplay",
+    "🔔 Notifications",
+    "📜 Endless scrolling",
+    "🙅 None of them"
+   ],
+   "hint": "Why do you think it works on you?"
+  },
+  {
+   "id": "s5",
+   "type": "respond",
+   "title": "If a child spent all their time after school and at the weekend playing an online game, what might they miss out on?",
+   "hint": "Think about family, friends, sleep, hobbies…"
+  },
+  {
+   "id": "s6",
+   "type": "poll",
+   "title": "How do you usually decide what to do on a device?",
+   "options": [
+    "How much time I have",
+    "How I am feeling",
+    "I plan it in advance",
+    "What my friends are doing",
+    "Whatever comes up first"
+   ]
+  },
+  {
+   "id": "i04",
+   "type": "image",
+   "title": "The Challenge: Life vs Tech",
+   "src": "slides/04.webp"
+  },
+  {
+   "id": "s7",
+   "type": "cards",
+   "title": "The Life and Tech cards",
+   "sub": "Green cards are everyday life. Grey cards are tech. You will be dealt one of each. Talk with your partner, then decide: do they work together?"
+  },
+  {
+   "id": "i05",
+   "type": "image",
+   "title": "Round 1: The Perfect Match",
+   "src": "slides/05.webp"
+  },
+  {
+   "id": "i06",
+   "type": "image",
+   "title": "Round 2: The Danger Zone",
+   "src": "slides/06.webp"
+  },
+  {
+   "id": "i07",
+   "type": "image",
+   "title": "Round 3: The Social Crash",
+   "src": "slides/07.webp"
+  },
+  {
+   "id": "i08",
+   "type": "image",
+   "title": "Round 4: The Battery Drain",
+   "src": "slides/08.webp"
+  },
+  {
+   "id": "s8",
+   "type": "deal",
+   "title": "Tech vs Life",
+   "sub": "Deal the cards. Talk. Decide. Explain why.",
+   "timer": 300
+  },
+  {
+   "id": "i09",
+   "type": "image",
+   "title": "The Multitasking Matrix",
+   "src": "slides/09.webp"
+  },
+  {
+   "id": "s9",
+   "type": "poll",
+   "title": "Which tech activity do you think is the most distracting?",
+   "options": [
+    "🎧 Streaming music",
+    "🎬 Watching a film",
+    "🎮 Playing a video game",
+    "📱 Using an app on a phone",
+    "🤳 Taking a selfie",
+    "💬 Messaging a friend",
+    "🌐 Looking at a website",
+    "🥽 Using a VR headset",
+    "📡 Livestreaming",
+    "🎞️ Editing a video"
+   ],
+   "hint": "Are some activities more distracting than others? Why?"
+  },
+  {
+   "id": "s10",
+   "type": "split",
+   "title": "What can you do at the same time as using a device — and what can’t you?",
+   "left": "Can do at the same time",
+   "right": "Can’t do at the same time",
+   "timer": 120
+  },
+  {
+   "id": "i10",
+   "type": "image",
+   "title": "Knowing when to unplug",
+   "src": "slides/10.webp"
+  },
+  {
+   "id": "i11",
+   "type": "image",
+   "title": "The Guardrails: why age limits matter",
+   "src": "slides/11.webp"
+  },
+  {
+   "id": "s11",
+   "type": "task",
+   "title": "Positive and negative",
+   "sub": "Choose one life card and one tech card that fit together well, and one pair that work against each other. Explain why.",
+   "timer": 240
+  },
+  {
+   "id": "s12",
+   "type": "respond",
+   "title": "How do you decide what is important to do when you are using technology?",
+   "hint": "What helps you choose?"
+  },
+  {
+   "id": "i12",
+   "type": "image",
+   "title": "Achieving digital wellbeing",
+   "src": "slides/12.webp"
+  },
+  {
+   "id": "i13",
+   "type": "image",
+   "title": "Master your screen time",
+   "src": "slides/13.webp"
+  },
+  {
+   "id": "s13",
+   "type": "poll",
+   "title": "How confident are you?",
+   "sub": "I can explain how using technology can be a distraction from other things, in both a positive and negative way.",
+   "options": [
+    "🌱 Not yet",
+    "🌿 Getting there",
+    "🌳 I can explain it"
+   ]
+  }
+ ]
+}
